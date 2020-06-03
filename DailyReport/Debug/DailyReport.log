@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(476,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(594,18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(653,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(751,7): warning C4101: 'nums2' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(1277,6): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(1340,6): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(1471,12): warning C4101: 'minute' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(1471,6): warning C4101: 'hour' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(1470,7): warning C4101: 'first_letter' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(1486,15): warning C4101: 'err' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(1499,15): warning C4101: 'err' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(1871,15): warning C4101: 'err' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(1939,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(2054,17): warning C4101: 'err' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(2199,17): warning C4101: 'err' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(2434,16): warning C4101: 'err' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(2589,39): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(3088,31): warning C4101: 'z4' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(3088,28): warning C4101: 'z3' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(3088,6): warning C4101: 'o1' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(3088,18): warning C4101: 'o4' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(3088,14): warning C4101: 'o3' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(3124,7): warning C4101: 'nums2' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(3088,10): warning C4101: 'o2' :참조되지 않은 지역 변수입니다.
+C:\Users\s_kmh0207\source\repos\DailyReport\DailyReport\main.cpp(3370,7): warning C4101: 'menu_num' :참조되지 않은 지역 변수입니다.
+  DailyReport.vcxproj -> C:\Users\s_kmh0207\source\repos\DailyReport\Debug\DailyReport.exe
